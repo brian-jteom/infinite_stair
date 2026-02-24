@@ -1,0 +1,5 @@
+{
+  "name": "무한의 계단 클론",
+  "description": "반사신경을 테스트하는 빠른 속도의 계단 오르기 게임입니다.",
+  "requestFramePermissions": []
+}
